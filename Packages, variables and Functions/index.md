@@ -1,0 +1,19 @@
+# Packages, Variables and Functions
+
+## Content Index
+* Packages
+* Imports
+* Exported names
+* Functions
+* Functions continued
+* Multiple results
+* Named return values
+* Variables
+* Variables with initializers
+* Short variable declarations
+* Basic types
+* Zero values
+* Type conversions
+* Type inference
+* Constants
+* Numeric Constants
